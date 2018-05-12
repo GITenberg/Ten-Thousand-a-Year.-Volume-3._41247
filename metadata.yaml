@@ -1,0 +1,30 @@
+_repo: Ten-Thousand-a-Year.-Volume-3._41247
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warren, Samuel
+    aliases:
+    - Sharp, Gustavus
+    - Warner, Warren
+    birthdate: 1807
+    deathdate: 1877
+    gutenberg_agent_id: '4342'
+    url: http://www.gutenberg.org/2009/agents/4342
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Warren
+description: ''
+gutenberg_issued: '2012-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Ten Thousand a-Year. Volume 3.
+url: http://www.gutenberg.org/ebooks/41247
